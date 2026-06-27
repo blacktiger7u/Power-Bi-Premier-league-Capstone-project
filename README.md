@@ -19,15 +19,18 @@ scatter analysis shows a clear posivitive correlation: teams with 35+ goals all 
 
 ### Referees aren't significantly biased towards home teams
 There is of course peer pressure with a crowded and rowdy stadium, however it isn't as significant as somebody would've expected. Analysis shows that most referees called fouls within 1–2 per match symmetrically between home and away sides. 
+
 <img width="364" height="224" alt="image" src="https://github.com/user-attachments/assets/3a60b36a-a550-4401-9071-9a9abd4a231e" />
 
 
 ### The Strictness Index revealed some tendencies
 S Attwell had the highest strictness index (~21 YC per 100 fouls), meaning he reaches for cards quickly relative to how many fouls he calls. While C Powson shows the opposite: foul count (21 per match) but a low strictness index — he lets matches flow without escalating to cards. This distinction is invisible in a simple ranking of yellow cards.
+
 <img width="300" height="186" alt="image" src="https://github.com/user-attachments/assets/0d813e34-8c07-4e52-b2c0-0634f53b8048" />
 
 ### December Was the Highest-Scoring Month
 The monthly trend shows a consistent dip in March (lowest goals both home and away) and a sharp rise through November–December. This may reflect fixture congestion, fatigue among defences, or tactical openness in matches with title/relegation implications late in the half-season.
+
 <img width="298" height="235" alt="image" src="https://github.com/user-attachments/assets/4ab17060-6a0b-4ca8-b91f-f650c3190394" />
 
 ---
