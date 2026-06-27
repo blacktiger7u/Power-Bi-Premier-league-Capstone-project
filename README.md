@@ -12,7 +12,7 @@ dataset from [football-data.co.uk](https://datahub.io/football/english-premier-l
 ### Arsenal dominated at home
 Arsenal recorded a **78.95% home win rate** — the highest in the league scoring 41 goals and conceding only 11. Which is 2.4 points per game, however teams such as Tottenham or Burnley had better points per game at away venues.
 <img width="436" height="59" alt="image" src="https://github.com/user-attachments/assets/1d7d0b5d-f427-4e24-b2e6-5f1f97a1994b" />
-<img width="418" height="52" alt="image" src="https://github.com/user-attachments/assets/eba95597-f835-40d1-abfc-a034b5a3aa16" />
+<img width="418" height="59" alt="image" src="https://github.com/user-attachments/assets/eba95597-f835-40d1-abfc-a034b5a3aa16" />
 
 ### Scoring goals at home venue strongly predicts wins
 scatter analysis shows a clear posivitive correlation: teams with 35+ goals all exceed 60% homw in rate. For example City led in goals scored at home(45) with ~ 74% win rate. However we see anomalies - teams with goals but inconsistent results - which rather points to defensive fragility rather than attacking weaknesses
