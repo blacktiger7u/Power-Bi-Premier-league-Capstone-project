@@ -28,7 +28,7 @@ S Attwell had the highest strictness index (~21 YC per 100 fouls), meaning he re
 
 <img width="300" height="186" alt="image" src="https://github.com/user-attachments/assets/0d813e34-8c07-4e52-b2c0-0634f53b8048" />
 
-### December Was the Highest-Scoring Month
+### December was the highest-scoring month
 The monthly trend shows a consistent dip in March (lowest goals both home and away) and a sharp rise through November–December. This may reflect fixture congestion, fatigue among defences, or tactical openness in matches with title/relegation implications late in the half-season.
 
 <img width="298" height="235" alt="image" src="https://github.com/user-attachments/assets/4ab17060-6a0b-4ca8-b91f-f650c3190394" />
